@@ -5,7 +5,7 @@
 
 I am a full-stack developer with background in [structural engineering](https://en.wikipedia.org/wiki/Structural_engineering). 
 <br> I am passionate about coding and happy to discover new tools.
-<br> I am based in [Canberra / Australia](https://en.wikipedia.org/wiki/Canberra) 
+<br> I am based in [Canberra](https://en.wikipedia.org/wiki/Canberra) :australia:
 <br>
 
 
@@ -22,7 +22,7 @@ Tools used: Python, Flask, PyCharm
 <br>
 
 ## My skill set:
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg" height="50px"><img src="https://elenalash.github.io/img/jslogo.png" height="50px"> <img src="https://getbootstrap.com/docs/4.5/assets/brand/bootstrap-solid.svg" height="50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg" height="50px"><img src="https://github.com/elenalash/elenalash.github.io/blob/master/img/jslogo.png?raw=true" height="50px"> <img src="https://getbootstrap.com/docs/4.5/assets/brand/bootstrap-solid.svg" height="50px">
 <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" height="50px"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" height="50px"><img src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" height="50px"><img src="https://www.sqlite.org/images/sqlite370_banner.gif" height="50px">
 <br>
 
