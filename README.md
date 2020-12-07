@@ -2,6 +2,7 @@
 
 <img align="left" width="250" src="https://elenalash.github.io/myGitImg.jpg">
 <br>
+<br>
 
 I am a full stack developer with background in [structural engineering](https://en.wikipedia.org/wiki/Structural_engineering). 
 <br> I am passionate about coding and happy to discover new tools.
@@ -9,7 +10,7 @@ I am a full stack developer with background in [structural engineering](https://
 <br>
 <br>
 <br>
-<br>
+
 
 ## My recent projects:
 * [Receipt Keeper Web App](https://receiptkeeper.pythonanywhere.com) - fully functional web application allowing you to collect your receipts throughout the week and see the summary at the end of each week. Want to try it? [Register here](https://receiptkeeper.pythonanywhere.com/register/) and start using today.
