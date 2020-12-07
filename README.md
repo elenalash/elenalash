@@ -1,6 +1,6 @@
 # Hello! My name is Elena (aka ElenaLash)
 
-<img align="left" width="30%" src="https://elenalash.github.io/myGitImg.jpg">
+<img align="left" width="30%" src="https://elenalash.github.io/img/myGitImg.jpg">
 <br>
 
 I am a full-stack developer with background in [structural engineering](https://en.wikipedia.org/wiki/Structural_engineering). 
@@ -22,8 +22,8 @@ Tools used: Python, Flask, PyCharm
 <br>
 
 ## My skill set:
-* HTML, CSS, Java Scrips ES6, Bootstrap
-* Python, Django, Flask, SQLite
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg" height="50px"><img src="https://elenalash.github.io/img/jslogo.png" height="50px"> <img src="https://getbootstrap.com/docs/4.5/assets/brand/bootstrap-solid.svg" height="50px">
+<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" height="50px"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" height="50px"><img src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" height="50px"><img src="https://www.sqlite.org/images/sqlite370_banner.gif" height="50px">
 <br>
 
 ## My favourite learning resources:
