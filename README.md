@@ -9,6 +9,7 @@ I am a full stack developer with background in [structural engineering](https://
 <br>
 <br>
 <br>
+<br>
 
 ## My recent projects:
 * [Receipt Keeper Web App](https://receiptkeeper.pythonanywhere.com) - fully functional web application allowing you to collect your receipts throughout the week and see the summary at the end of each week. Want to try it? [Register here](https://receiptkeeper.pythonanywhere.com/register/) and start using today.
