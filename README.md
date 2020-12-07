@@ -1,6 +1,6 @@
 # Hello! My name is Elena (aka ElenaLash)
 
-<img align="left" width="30%" src="https://elenalash.github.io/img/myGitImg.jpg">
+<img align="left" width="40%" src="https://elenalash.github.io/img/myGitImg.jpg">
 <br>
 
 I am a full-stack developer with background in [structural engineering](https://en.wikipedia.org/wiki/Structural_engineering). 
