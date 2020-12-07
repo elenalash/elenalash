@@ -5,7 +5,7 @@
 
 I am a full stack developer with background in [structural engineering](https://en.wikipedia.org/wiki/Structural_engineering). 
 <br> I am passionate about coding and happy to discover new tools.
-<br> I am based in [Canberra](https://en.wikipedia.org/wiki/Canberra) 
+<br> I am based in [Canberra / Australia](https://en.wikipedia.org/wiki/Canberra) 
 <br>
 
 
