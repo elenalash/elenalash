@@ -16,9 +16,9 @@ Tools used: Python, Django, Bootstrap, HTML, CSS, PyCharm
 Tools used: Pthon, Flask, HTML, CSS, VS Code, Selenium, PyCharm
 * [Sorrento by the Sea](https://elenalash.github.io/sorrento/index.html) - website from the ground up (concept, sitemap, wireframes, design, style, testing).
 Tools used: HTML, CSS, VS Code
-* [Tic-tac-toe]() - web game
+* [Tic-tac-toe](https://elenalash.pythonanywhere.com/tictactoe) - web game
 Tools used: Python, Flask, PyCharm
-* [My portfolio](elenalash.github.io)
+* [My portfolio](https://elenalash.github.io/)
 <br>
 
 ## My skill-set:
